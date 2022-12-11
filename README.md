@@ -11,3 +11,5 @@ responseda yapılan işlem detayı return edilmektedir.
 Bu adımlar sırasıyla izlenip java uygulaması üzerinden database’ e postgreSql'e kayıt atılmaktadır. Database'de bir tablo açılıp o tabloya değer girilmesi java isteği 
 üzerinden). Daha sonra aynı istek atılan uygulama ile (örnek postman ...) get ve list java spring 
 endpointleri çağırılarak, database e atılan kayıt response olarak dönülmektedir. 
+
+Diğer ek 3 isteri 3 günlük süre zarfında dolaylı problemlerden yetiştiremedim.
